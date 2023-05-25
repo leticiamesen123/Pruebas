@@ -7,14 +7,20 @@ assignees: ''
 
 ---
 
--------------------- START TEMPLATE --------------------
+Origin:
 
-- [ ]  DB change:
+Description:
+
+Acceptance criteria: 
+
+
+Check list
+
+- [ ] Flowchart
+- [ ]  DB change
 - [ ]  IDP changes
 - [ ] Inter project dependencies
 - [ ] Config changes
 - [ ] SonarQ
 - [ ] Testing in local environment 
-- [ ]Testing in Dev environment 
-
----------------------END TEMPLATE --------------------
+- [ ] Testing in Dev environment
