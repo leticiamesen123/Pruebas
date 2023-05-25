@@ -8,11 +8,13 @@ assignees: ''
 ---
 
 -------------------- START TEMPLATE --------------------
-DB change:
-N/A
-IDP changes
-N/A
-Inter project dependencies
-N/A
-Config changes
-- END TEMPLATE --------------------
+
+- [ ]  DB change:
+- [ ]  IDP changes
+- [ ] Inter project dependencies
+- [ ] Config changes
+- [ ] SonarQ
+- [ ] Testing in local environment 
+- [ ]Testing in Dev environment 
+
+---------------------END TEMPLATE --------------------
