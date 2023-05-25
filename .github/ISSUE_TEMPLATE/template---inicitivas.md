@@ -8,13 +8,7 @@ assignees: ''
 ---
 
 Datos Generales
-```[tasklist]
-### Tasks
-- [ ] Add a draft title or issue reference here
-```
-
-
-| First Header  | Second Header |
+| Nombre del Proyecto | Second Header |
 | ------------- | ------------- |
 | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  |
